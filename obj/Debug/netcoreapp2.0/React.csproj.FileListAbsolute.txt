@@ -1,0 +1,11 @@
+/Users/royemersonreyesmacias/Projects/NetCore/React/bin/Debug/netcoreapp2.0/React.deps.json
+/Users/royemersonreyesmacias/Projects/NetCore/React/bin/Debug/netcoreapp2.0/React.runtimeconfig.json
+/Users/royemersonreyesmacias/Projects/NetCore/React/bin/Debug/netcoreapp2.0/React.runtimeconfig.dev.json
+/Users/royemersonreyesmacias/Projects/NetCore/React/bin/Debug/netcoreapp2.0/React.dll
+/Users/royemersonreyesmacias/Projects/NetCore/React/bin/Debug/netcoreapp2.0/React.pdb
+/Users/royemersonreyesmacias/Projects/NetCore/React/obj/Debug/netcoreapp2.0/React.csprojAssemblyReference.cache
+/Users/royemersonreyesmacias/Projects/NetCore/React/obj/Debug/netcoreapp2.0/React.csproj.CoreCompileInputs.cache
+/Users/royemersonreyesmacias/Projects/NetCore/React/obj/Debug/netcoreapp2.0/React.AssemblyInfoInputs.cache
+/Users/royemersonreyesmacias/Projects/NetCore/React/obj/Debug/netcoreapp2.0/React.AssemblyInfo.cs
+/Users/royemersonreyesmacias/Projects/NetCore/React/obj/Debug/netcoreapp2.0/React.dll
+/Users/royemersonreyesmacias/Projects/NetCore/React/obj/Debug/netcoreapp2.0/React.pdb
